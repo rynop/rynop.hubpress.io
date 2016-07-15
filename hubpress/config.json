@@ -4,7 +4,13 @@
     "repositoryName": "rynop.hubpress.io",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "RYNOP's Blog",
+    "description": "Web+Tech",
+    "logo": "http://www.doapps.com/images/portfolio/ryan.jpg"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
