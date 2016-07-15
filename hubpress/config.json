@@ -9,7 +9,12 @@
     "description": "Web+Tech",
     "logo": "http://www.doapps.com/images/portfolio/ryan.jpg"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "ryan.pendergast@gmail.com",
+    "twitter": "rynop",
+    "linkedin": "rynop",
+    "github": "rynop"
+  },
   "theme": {
     "name": "casper"
   }
