@@ -7,7 +7,8 @@
   "site": {
     "title": "RYNOP's Blog",
     "description": "Web+Tech",
-    "logo": "http://www.doapps.com/images/portfolio/ryan.jpg"
+    "logo": "http://www.doapps.com/images/portfolio/ryan.jpg",
+    "cover": "http://www.doapps.com/images/doapp_logo.png"
   },
   "socialnetwork": {
     "email": "ryan.pendergast@gmail.com",
